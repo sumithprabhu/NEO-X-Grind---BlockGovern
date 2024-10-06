@@ -3,7 +3,7 @@
 
 BlockGovern is a groundbreaking decentralized application (DApp) revolutionizing small organizations' governance systems. This innovative platform empowers organizations to create their governance structure without the complexities of launching a token. With just a few clicks, organizations can register and receive a personalized URL, leading to a dedicated page.
 
-**BlockGovern Contract is deployed on EDU Chain testnet and contract address is 0x47d4D84bf6F829dd29602c0b373b95d1AaD1E867**
+**BlockGovern Contract is deployed on NeoX testnet T4 and contract address is 0x04b4AA5A55fD666c588fe51ccc000e14F6101B70**
 
 Upon accessing their page, organizations will find a dynamic and interactive posts section, enabling members to engage in crucial decision-making processes. Each post will consist of a title, body, and a voting section , Anyone can post, but posting comes at a cost, determined at the time of account creation. This nominal fee fosters responsible and thoughtful contributions while generating revenue for the particular organization.
 
